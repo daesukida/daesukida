@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Hey there, I'm <b>Daesukida<b/>! I'm passionate about DevOps 🚀 and Backend Development 🛠️, building robust systems and streamlining workflows. My projects focus on creating scalable, efficient, and reliable solutions. Here's what I dive into:</p>
+<p align="left">Hey there, I'm <b>Daesukida</b>! I'm passionate about DevOps 🚀 and Backend Development 🛠️, building robust systems and streamlining workflows. My projects focus on creating scalable, efficient, and reliable solutions. Here's what I dive into:</p>
 
 ###
 
